@@ -1,5 +1,5 @@
 # Bixal Methodology
-Bixal's Methodology defines a framework for Bixal employees to use as a guideine in developing both digital and non digital work. Further, our methodology promotes a consistent taxonomy and human centered approach, a place from which to start solving problems for our clients and their constiutents, the American public.
+Bixal's Methodology defines a guideine for Bixal employees to use in developing both digital and non digital work. Our methodology promotes a consistent taxonomy and human centered approach, a place from which to start solving problems for our clients and their constiutents, the American public.
 
 ## It's Your Tool
 It's an important reference tool for Bixal's Communities of Practice - to onboard new employees, to promote strong collaboration amongst practice areas, and to use as an educational tool internally and with the public. It also:
